@@ -1,3 +1,4 @@
+//we take any two number from user and find value of one no raised to power of another
 import java.util.Scanner;
 class Ques{
 	public static void main(String args[]){
